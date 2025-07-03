@@ -1,0 +1,7 @@
+.env
+input_data/ 
+output_data/
+sales-agent-env/
+sales-agent-mvp/
+example_o3_use.py
+PRD-Sales-Agent-MVP.md
